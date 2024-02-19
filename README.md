@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá! Eu sou o André Luís Bianchini Filho
 
-<!--
-**Andrezinho51/Andrezinho51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📚 Estudante Engenharia de Computação PUC-CAMPINAS - 7º Semestre.
 
-Here are some ideas to get you started:
+![André GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho51&layout=donut-vertical&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+  
+<div> 
+  <a href="https://instagram.com/andrezinho_bianchini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:albianchinifilho@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href = "https://t.me/AndreLuisBianchiniFilho"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andre-luis-bianchini-filho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+  
+  
+  </div>
