@@ -11,7 +11,7 @@
   </div>
   </br></br>
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho51&layout=donut-vertical&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andrezinho51&layout=donut&theme=dracula)
 
 ## Tecnologias que estou estudando
 
