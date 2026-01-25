@@ -1,6 +1,7 @@
 ### Olá! Eu sou o André Luís Bianchini Filho
 
-- 📚 Estudante Engenharia de Computação PUC-CAMPINAS - 10º Semestre.
+- 📚 Bacharel em Engenharia da Computação.
+      Conclusão em Dezembro de 2025.
 
 ## Contatos:
 <div> 
